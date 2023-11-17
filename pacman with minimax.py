@@ -1,5 +1,4 @@
 # Define the game board and the initial state of the game
-import os
 import random
 
 
